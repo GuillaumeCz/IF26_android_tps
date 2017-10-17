@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuillaumeCz_tp04</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prénom :</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="result_btn">Ok bro !</string>
+    <string name="bt1">G01</string>
+    <string name="bt2">G02</string>
+    <string name="bt3">G03</string>
+    <string name="bt4">G04</string>
+</resources>
